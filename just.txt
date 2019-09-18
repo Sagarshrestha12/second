@@ -1,0 +1,7 @@
+git command:
+git init: is used to initilize the file
+git add .: is used to add the file to repository 
+git commit -m "message": is used to know what changes u have made
+git push -u origin master : is used to push file to github. after typing it 
+file is shown in github
+git remote add "http code"
